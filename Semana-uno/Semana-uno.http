@@ -1,0 +1,6 @@
+@Semana_uno_HostAddress = http://localhost:5198
+
+GET {{Semana_uno_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
